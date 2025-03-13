@@ -20,4 +20,4 @@ A mini API system to exemplify the basic structure of Java (Using Helidon)
 3. `java -jar target/api.jar`
 
 ### Change
-Cambios para poder comprobar el WebHooks!
+Cambios para el WebHooks
